@@ -6,7 +6,7 @@ comfortable on the eyes for long working sessions.
 
 ![preview](preview.png)
 
-![defaultbg](./backgrounds/0-mountain-peak-through-misty-clouds.jpg)
+![defaultbg](default-bg.png)
 
 ## Everforest Light Palette
 
