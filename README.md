@@ -4,7 +4,8 @@ A **light-mode** port of the [Everforest](https://github.com/sainnhe/everforest)
 scheme for [Omarchy](https://omarchy.org/). Warm, soft, and green-based — designed to be
 comfortable on the eyes for long working sessions.
 
-![Theme preview](preview-new.png)
+![preview](preview.png)
+
 ![defaultbg](./backgrounds/0-mountain-peak-through-misty-clouds.jpg)
 
 ## Everforest Light Palette
