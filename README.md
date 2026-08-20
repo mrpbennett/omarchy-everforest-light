@@ -5,6 +5,7 @@ scheme for [Omarchy](https://omarchy.org/). Warm, soft, and green-based — desi
 comfortable on the eyes for long working sessions.
 
 ![Theme preview](preview.png)
+![defaultbg](./backgrounds/0-mountain-peak-through-misty-clouds.jpg)
 
 ## Everforest Light Palette
 
@@ -16,7 +17,7 @@ reference palette and highlighting semantics are documented upstream:
 ### Colors
 
 | Role | Value | Swatch |
-|------|-------|--------|
+| ------ | ------- | -------- |
 | `background` | `#fdf6e3` | <span style="color:#fdf6e3">&#9608;&#9608;&#9608;</span> |
 | `dark_background` | `#efebd4` | <span style="color:#efebd4">&#9608;&#9608;&#9608;</span> |
 | `darker_background` | `#e6e2cc` | <span style="color:#e6e2cc">&#9608;&#9608;&#9608;</span> |
@@ -52,7 +53,7 @@ immediately. See the [Omarchy theme docs](https://omarchy.org/themes/) for more 
 ## What's Included
 
 | File | Purpose |
-|------|---------|
+| ------ | --------- |
 | [`colors.toml`](colors.toml) | Core color definitions for Hyprland, the shell, and GTK |
 | `backgrounds/` | Included Everforest Light wallpapers |
 | [`icons.theme`](icons.theme) | Icon theme (Yaru-sage) |
